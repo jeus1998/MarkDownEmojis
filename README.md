@@ -19,4 +19,10 @@ https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-Emoji-%EC%9D%B4%EB%AA%A8%ED
 ### symbols
 ⬅️ ➡️ 🔄 ☑️ ⬆️ ⬇️ ✅ 
 
+### web
+🍪
+
+
+
+
 
